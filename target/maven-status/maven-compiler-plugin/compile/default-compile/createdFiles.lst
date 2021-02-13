@@ -1,0 +1,7 @@
+service\ClienteService.class
+web\ServletControlador.class
+datos\ClienteDao.class
+datos\ClienteDaoImpl.class
+service\ClienteServiceImpl.class
+service\ClienteServiceRemote.class
+domain\Cliente.class
